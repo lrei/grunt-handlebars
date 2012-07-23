@@ -2,7 +2,7 @@
  * Task: handlebars
  * Description: Compile handlebars templates
  * Dependencies: handlebars
- * Contributer: Luis Rei, me@luisrei.com @lmrei, July 2012 
+ * Modified by: Luis Rei, me@luisrei.com @lmrei, July 2012 
  * Contributor (original): @tbranyen
  */
 
